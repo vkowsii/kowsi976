@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+int a=hello world;
+printf("enter the number of paragraph"):
+scanf("%d&&/n")
+get(hello)
+}
+}
