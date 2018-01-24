@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+{
+char a=i;
+int count=200;
+printf("enter the given string");
+scanf("%d/n"a,a)
+{
+if(s[i]==1)
+}
